@@ -49,39 +49,9 @@ $L(r)=L(N)$  ovvero hanno lo stesso linguaggio.
 
 ---
 
-# End of notes taken on prof. Quaglia lessons
+# End of notes taken on prof. Quaglia's lessons
 
-## Now let's go with God Ravula Ravindrababu
+## Now let's go with our God, prof. Ravula Ravindrababu
 
 [Theory of Computation](Theory%20of%20Computation%20518fec38c3194836a173b6d0651ded3c.md) 
 
-**Parsing 23/10/2020**
-
-Given a grammar $G=(V,T,S,P)$ and a word $w$
-
-Say whether $w \in L(G)$ and, if so, provide it's derivation tree
-
-Two relevant kinds of parsing:
-
-- Top-down —> leftmost derivation from root to yield
-- Bottom-up —> rightmost derivation (in reverse order) from yield to root
-
-**Top-down Parsing**
-
-Let $w=bd$ and
-
-$G: \space S \to Ad\space |\space Bd \\ \nobreakspace \nobreakspace \nobreakspace \nobreakspace \nobreakspace \nobreakspace \nobreakspace A \to a \\ \nobreakspace \nobreakspace \nobreakspace \nobreakspace \nobreakspace \nobreakspace \nobreakspace B \to b$
-
-       `...`
-
-**Predictive top-down parsing**
-
-- no backtrack (completely deterministic)
-- LL(1) grammars (LL=leftmost derivation)
-    
-    We construct a parsing table, we'll learn how to make it deterministic
-    
-
-**29/10/2020** 
-
-[Theory of Computation](Theory%20of%20Computation%20518fec38c3194836a173b6d0651ded3c.md)
