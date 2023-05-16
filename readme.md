@@ -2,9 +2,9 @@
 
 ## Note importanti
 
-Questa doveva essere una guida pratica all'esame di LFC. In corso d'opera però ho scoperto i video di Ravula, e i miei appunti su tutta la parte di esercizi si sono resi inutili e le spiegazioni della prof. Quaglia più complicate che utili.
+Questa doveva essere una guida pratica all'esame di LFC. In corso d'opera però ho scoperto i video del professor Ravula su YouTube (che consiglio a tutti i colleghi alle prese con l'esame), a quel punto i miei appunti su tutta la parte di esercizi hanno smesso di seguire le spiegazioni della prof.ssa
 
-Questi appunti non sono mai stati controllati successivamente, potrebbero quindi contenere errori o imprecisioni, tanto più che sono in parte in inglese.
+DISCLAIMER: non ho verificato la correttezza degli appunti, potrebbero quindi contenere errori o imprecisioni, tanto più che sono in parte in inglese (e non sono madrelingua).
 
 Se volete modificare siete liberissimi di farlo, in bocca al lupo.
 
