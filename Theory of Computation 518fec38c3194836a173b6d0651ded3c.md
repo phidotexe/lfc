@@ -13,9 +13,10 @@ following lectures by Ravindrababu Ravula
 
 **Symbol -** A symbol is any single letter or character and is the basic building block of this topic
 
-$a, b,c,...,1,0,...☺,☻,...$
+$a, b,c,...,0,1,...$
 
-$**\text{\textquotedblleft} \Sigma":$  Alphabet -** Some collection of symbols.
+**$\Sigma:$  
+Alphabet -** Some collection of symbols.
 
 $\{a,b\},\{a,b,c\}\{0,1\}\{0,1...9\}$
 
