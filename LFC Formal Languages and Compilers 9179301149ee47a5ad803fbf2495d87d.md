@@ -51,7 +51,7 @@ $L(r)=L(N)$  ovvero hanno lo stesso linguaggio.
 
 # End of notes taken on prof. Quaglia's lessons
 
-## Now let's go with our God, prof. Ravula Ravindrababu
+## Many thanks to prof. Ravula Ravindrababu for this awesome playlist
 
 [Theory of Computation](Theory%20of%20Computation%20518fec38c3194836a173b6d0651ded3c.md) 
 
